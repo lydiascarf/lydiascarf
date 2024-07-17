@@ -15,17 +15,18 @@
   - [wildfire risk to communities](https://wildfirerisk.org/explore), a tool funded by the USFS that analyzes and displays data pertinent to wildfire risk
   - [open supply hub](https://opensupplyhub.org/), a tool that seeks to illuminate supply chains for all kinds of products
 - web pages for queer businesses
-  - [val's](https://valslesbianbar.com/), a landing page for philadelphia's only lesbian bar
-  - [Zapster](http://phillyzapster.com/), a simple site for a laser hair removal & electrolysis business
+  - [val's](https://valslesbianbar.com/), a landing page for philadelphia's future only lesbian bar, with plenty of more work coming <333
 
 #### i <3
 - all things postgresql
+- being gay
+- taking care of all my people
 - making music
 - my children, namely
   - my servers
   - my thinkpads
     - puppy linux on the t40
-    - arch on the T490S
+    - endeavoros on the T490S
     - a few others that presently don't boot :(
   - my plants
-  - my compost worms
+  
